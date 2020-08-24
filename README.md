@@ -1,7 +1,9 @@
 <img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
 
 # JMusicBot
+<img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
 
+[![Run on Repl.it](https://repl.it/badge/github/jagrosh/MusicBot)](https://repl.it/github/jagrosh/MusicBot)
 [![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://github.com/jagrosh/MusicBot/releases/latest)
 [![Stars](https://img.shields.io/github/stars/jagrosh/MusicBot.svg)](https://github.com/jagrosh/MusicBot/stargazers)
 [![Release](https://img.shields.io/github/release/jagrosh/MusicBot.svg)](https://github.com/jagrosh/MusicBot/releases/latest)
